@@ -1,4 +1,4 @@
-# Este es un repositorio para mis desarrollos de P5 y javascripts
+# Este es un repositorio para los juegos de chispa
 
-## simpleConBinaryVerde 
+## juego chispa 2025
 https://bruveping.github.io/juegoChispa/Juego_Chispa_2025_03_21
